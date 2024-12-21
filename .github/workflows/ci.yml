@@ -35,7 +35,7 @@ jobs:
       # Step 5: Upload Extent Reports
       - name: Upload Extent Reports
         if: always()
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: extent-report
           path: target/ExtentReport.html
