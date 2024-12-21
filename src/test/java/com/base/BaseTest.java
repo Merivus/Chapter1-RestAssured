@@ -37,6 +37,6 @@ public class BaseTest {
 
   @AfterClass
   public void tearDown() {
-    extent.flush(); // Raporu yazdır
+    extent.flush(); // Print report
   }
 }
