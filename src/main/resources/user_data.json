@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Emrah Ozdemir",
+    "gender": "male",
+    "email": "emrahozdemir@example.com",
+    "status": "active"
+  },
+  {
+    "name": "Merve Ozdemir",
+    "gender": "female",
+    "email": "merveozdemir@example.com",
+    "status": "active"
+  }
+]
